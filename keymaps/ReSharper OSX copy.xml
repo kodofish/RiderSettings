@@ -1,0 +1,10 @@
+<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>

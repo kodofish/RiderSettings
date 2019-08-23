@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="RiderUnitTestRunSolutionAction">
+        <abbreviation name="RunAllTests" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
