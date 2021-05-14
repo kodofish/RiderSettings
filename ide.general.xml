@@ -28,7 +28,6 @@
     <entry key="editor.show.special.chars" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
