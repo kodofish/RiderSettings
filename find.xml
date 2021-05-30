@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../DotNet_Asynchronous_Programming_Sample/Ch2/01_Threading.cs'" />
-    <option name="defaultScopeName" value="File '.../DotNet_Asynchronous_Programming_Sample/Ch2/01_Threading.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../DotNet_Asynchronous_Programming_Sample/Ch2/01_Threading.cs'" />
+    <option name="customScope" value="File '.../DotNet_Asynchronous_Programming_Sample/Ch2/02_ThreadingStartWithParameter.cs'" />
+    <option name="defaultScopeName" value="File '.../DotNet_Asynchronous_Programming_Sample/Ch2/02_ThreadingStartWithParameter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../DotNet_Asynchronous_Programming_Sample/Ch2/02_ThreadingStartWithParameter.cs'" />
   </component>
 </application>
