@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="editor.show.special.chars" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

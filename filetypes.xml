@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping ext="feature" type="Cucumber" />
-      <mapping ext="feature" type="SpecFlow" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="feature" approved="true" type="Cucumber" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
+      <mapping ext="feature" type="SpecFlow" />
     </extensionMap>
   </component>
 </application>
