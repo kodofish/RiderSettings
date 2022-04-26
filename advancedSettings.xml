@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="editor.show.special.chars" value="false" />
+        <entry key="se.text.search" value="true" />
       </map>
     </option>
   </component>
