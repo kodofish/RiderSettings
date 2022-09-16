@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio 2022 copy" parent="Visual Studio 2022">
+  <action id="CompileFile" />
+  <action id="Vcs.Diff.ExcludeChangedLinesFromCommit">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+</keymap>
