@@ -1,0 +1,18 @@
+<keymap version="1" name="Visual Studio 2022 copy" parent="Visual Studio 2022">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="CompileFile" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Vcs.Diff.ExcludeChangedLinesFromCommit">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+</keymap>
